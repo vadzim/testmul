@@ -1,0 +1,12 @@
+{
+  "name": "@vadzim/testmul",
+  "version": "1.0.0",
+  "description": "multiplication table test",
+  "main": "testmul.js",
+  "repository": "https://github.com/vadzim/testmul",
+  "author": "vadzim",
+  "license": "MIT",
+  "bin": {
+    "testmul": "./testmul.js"
+  }
+}
